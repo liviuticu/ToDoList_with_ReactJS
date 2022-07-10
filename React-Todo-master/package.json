@@ -2,7 +2,7 @@
   "name": "todo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://liviuticu.github.io/ToDoList_with_ReactJS",
+  "homepage": "https://liviuticu.github.io/ToDoList_with_ReactJS/React-Todo-master",
   
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
